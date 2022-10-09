@@ -1,6 +1,6 @@
 #!/bin/sh
 while true
 do
-  ipython -c "%run shah.ipynb"
+  python shah.py
   sleep 5
 done
