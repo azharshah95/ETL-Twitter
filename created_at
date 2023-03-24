@@ -1,0 +1,9 @@
+created_at
+id          #tweetID
+full_text
+metadata/result_type
+user/name
+user/screen_name
+user/location
+retweet_count
+favorite_count
